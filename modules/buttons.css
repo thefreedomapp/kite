@@ -1,20 +1,20 @@
-.button-round {
+.btn {
     border-radius: 5px;
     border: none;
     font-size: 48px;
 }
 
-.button-large {
+.btn-large {
     width: 200px;
     height: 120px;
 }
 
-.button-medium {
+.btn-medium {
     width: 100px;
     height: 60px;
 }
 
-.button-small {
+.btn-small {
     width: 50px;
     height: 30px;
 }
