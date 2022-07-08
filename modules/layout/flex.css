@@ -86,7 +86,7 @@
     justify-self: flex-end;
 }
 
-.center {
+.center-all {
     align-items: center;
     justify-content: center;
 }
