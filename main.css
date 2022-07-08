@@ -1,4 +1,6 @@
-/* Buttons */
-@import url('./modules/buttons.css');
+/* Components */
+@import url('./modules/components/main.css');
 /* Colours */
 @import url('./modules/colors.css');
+/* Layout */
+@import url('./modules/layout/main.css');
